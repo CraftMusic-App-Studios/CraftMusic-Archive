@@ -1,0 +1,18 @@
+{
+  "name": "craftmusic_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "ffmpeg": "0.0.4",
+    "opus": "0.0.0",
+    "opusscript": "0.0.7",
+    "ytdl-core": "^2.1.7"
+  }
+}
