@@ -1,0 +1,27 @@
+{
+  "name": "craftmusic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "shards.js",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.0",
+    "crisp": "^1.0.0",
+    "discord-buttons": "^2.4.1",
+    "discord.js": "*",
+    "dotenv": "^8.2.0",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^4.2.1",
+    "node-fetch": "^2.6.1",
+    "opus": "*",
+    "opusscript": "^0.0.7",
+    "prism-media": "^1.2.9",
+    "simple-youtube-api": "^5.2.1",
+    "ytdl": "^1.4.1",
+    "ytdl-core": "^4.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
