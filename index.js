@@ -4,7 +4,7 @@
   
   Copyright (C) 2020 - 2023 CraftMusic Bot Studios
 
-  This file is an unmodified original from the source code of CraftMusic version 3. 
+  This file is an unmodified original from the source code of CraftMusic version 1. 
   No changes were made to the code, only comments were added for documentation.
 --------------------------------------------------------------------------------*/
 
