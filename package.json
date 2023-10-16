@@ -1,0 +1,27 @@
+{
+  "name": "craftmusic",
+  "version": "4.0.0",
+  "description": "The Discord Music Bot",
+  "main": "index.js",
+  "author": "TheDomCraft <admin@thedomcraft.ml>",
+  "private": true,
+  "homepage": "https://craftmusic-bot.ml/",
+  "repository": "github:TheDomCraft/CraftMusic",
+  "bugs": "https://craftmusic-bot.ml/report",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "array-move": "^3.0.1",
+    "discord.js": "^12.5.1",
+    "erit-ytdl": "^0.1.2",
+    "express": "^4.17.1",
+    "ffmpeg-static": "^4.2.3",
+    "lyrics-finder": "^21.0.5",
+    "simple-youtube-api": "^5.1.1",
+    "soundcloud-downloader": "^0.2.1",
+    "string-progressbar": "^1.0.1",
+    "ytdl-core": "^4.9.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}

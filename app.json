@@ -1,0 +1,7 @@
+{
+  "name": "CraftMusic",
+  "description": "The CraftMusic Discord Bot",
+  "repository": "https://github.com/TheDomCraft/CraftMusic",
+  "logo": "https://cdn.platin-developmentstudios.de/img/craftmusic-new.png",
+  "keywords": ["discord", "discordjs", "music", "bot"]
+}
